@@ -9,9 +9,9 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
 
 
 
